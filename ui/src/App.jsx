@@ -116,7 +116,7 @@ function App() {
 
   return (
     <div>
-      <h1>Visualizer <span style={{fontWeight: 300}}>Audio</span></h1>
+      <h1>RANDY <span style={{fontWeight: 300}}>VISUALIZER AUDIO</span></h1>
       <p className="subtitle">Detector de espectrogramas y Fakes por Inteligencia de Frecuencias</p>
 
       <div className="glass-panel">
